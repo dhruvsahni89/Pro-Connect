@@ -1,13 +1,25 @@
 body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+
+ 
+}
+:root,body,html {
+  background-color: white;
+  box-sizing: border-box;
+}
+div ,h1,h2,h3,h4,h5,h6,header,html,i,img,label,li,nav,p,small,span,ul{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  border: 0;
+  outline: none;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+  font-family: Ariel , sans-serif;
 }
