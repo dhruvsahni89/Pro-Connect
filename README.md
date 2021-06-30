@@ -13,14 +13,14 @@ linked-in clone using react , redux and firebase
   <img src="ssofprojects/signin.png" >
 ***
   
-   ## home Page
+   ## feed Page
 <img src="ssofprojects/home.png">
 
 ***
   
   
-   ## feed page
-<img src="ssofprojects/feed.png">
+   ## feed showing video player
+<img src="ssofprojects/video2.png">
 
 ***
   
