@@ -9,41 +9,22 @@
 linked-in clone using react , redux and firebase 
 
 
-
-<!-- ## Feed Page
-<img src="Project_Img/feedPage.png">
+## login page
+  <img src="ssofprojects/signin.png" >
+***
+  
+   ## home Page
+<img src="ssofprojects/home.png">
 
 ***
-
-## Create new post
-<img src="Project_Img/createPost.png">
-
-***
-
-## Message your connections
-<img src="Project_Img/messaging.png">
+  
+  
+   ## feed page
+<img src="ssofprojects/feed.png">
 
 ***
-
-## Create a network
-<img src="Project_Img/network2.png">
-
-***
-
-## User Profile
-<img src="Project_Img/myProfile.png">
+  
+   ## create post
+<img src="ssofprojects/creatPost.png">
 
 ***
-
-## Recieve notifications
-<img src="Project_Img/Notifications.png">
-
-***
-
-## Hire employees by posting jobs
-<img src="Project_Img/postJobForm.png">
-
-***
-
-## Search for various users & available jobs
-<img src="Project_Img/searchResults2.png"> -->
