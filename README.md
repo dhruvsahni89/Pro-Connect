@@ -1,4 +1,4 @@
-# LinkedIn-clone
+# Pro-Connect
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" width="100" />
